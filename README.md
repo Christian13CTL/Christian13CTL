@@ -10,7 +10,7 @@ Soy un estudiante de ingeniería en software con una firme convicción de que la
 
 <h3 align="center">Encuéntrame en 🌐:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/christian-jaramillo-6b27441a4/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/christian-jaramillo-6b27441a4/" target="__blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 <hr style="border-top: 3px solid #000; margin: 20px auto; width: 50%;">
 <h3 align="left">💻 Tecnologías:</h3>
